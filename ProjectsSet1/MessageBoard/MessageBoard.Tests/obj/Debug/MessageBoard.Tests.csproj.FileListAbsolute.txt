@@ -1,0 +1,1 @@
+D:\Projects\MessageBoard\MessageBoard.Tests\obj\Debug\MessageBoard.Tests.csprojResolveAssemblyReference.cache

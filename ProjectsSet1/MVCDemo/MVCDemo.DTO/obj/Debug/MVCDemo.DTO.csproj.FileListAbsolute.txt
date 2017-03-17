@@ -1,0 +1,10 @@
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\MVCDemo.DTO.dll.config
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\MVCDemo.DTO.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\MVCDemo.DTO.pdb
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\EntityFramework.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\EntityFramework.xml
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\obj\Debug\MVCDemo.DTO.csprojResolveAssemblyReference.cache
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\obj\Debug\MVCDemo.DTO.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\MVCDemo.DTO\obj\Debug\MVCDemo.DTO.pdb

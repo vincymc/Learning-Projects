@@ -1,0 +1,14 @@
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\bin\Debug\Repository.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\bin\Debug\Repository.pdb
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\obj\Debug\Repository.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\obj\Debug\Repository.pdb
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\bin\Debug\CustomerApp.DTO.dll
+C:\Users\JINOY\Desktop\Vincy\MVCDemo\Repository\bin\Debug\CustomerApp.DTO.pdb
+D:\Projects\ProjectsSet1\MVCDemo\Repository\bin\Debug\Repository.dll
+D:\Projects\ProjectsSet1\MVCDemo\Repository\bin\Debug\Repository.pdb
+D:\Projects\ProjectsSet1\MVCDemo\Repository\bin\Debug\CustomerApp.DTO.dll
+D:\Projects\ProjectsSet1\MVCDemo\Repository\bin\Debug\CustomerApp.DTO.pdb
+D:\Projects\ProjectsSet1\MVCDemo\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\Projects\ProjectsSet1\MVCDemo\Repository\obj\Debug\Repository.dll
+D:\Projects\ProjectsSet1\MVCDemo\Repository\obj\Debug\Repository.pdb

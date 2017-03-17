@@ -1,0 +1,5 @@
+C:\Users\JINOY\Documents\Visual Studio 2015\Projects\WebAlbums\WebAlbums.Repositories\bin\Debug\WebAlbums.Repositories.dll
+C:\Users\JINOY\Documents\Visual Studio 2015\Projects\WebAlbums\WebAlbums.Repositories\bin\Debug\WebAlbums.Repositories.pdb
+C:\Users\JINOY\Documents\Visual Studio 2015\Projects\WebAlbums\WebAlbums.Repositories\obj\Debug\WebAlbums.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\JINOY\Documents\Visual Studio 2015\Projects\WebAlbums\WebAlbums.Repositories\obj\Debug\WebAlbums.Repositories.dll
+C:\Users\JINOY\Documents\Visual Studio 2015\Projects\WebAlbums\WebAlbums.Repositories\obj\Debug\WebAlbums.Repositories.pdb
